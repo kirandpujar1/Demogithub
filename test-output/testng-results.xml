@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51529" started-at="2017-05-03T07:16:02Z" finished-at="2017-05-03T07:16:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51529" started-at="2017-05-03T07:16:02Z" finished-at="2017-05-03T07:16:54Z">
+      <class name="com.org.learnmaven.myMavenPrj.AppTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.org.learnmaven.myMavenPrj.AppTest@59f99ea]" name="test" duration-ms="51490" started-at="2017-05-03T12:46:02Z" finished-at="2017-05-03T12:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.org.learnmaven.myMavenPrj.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
